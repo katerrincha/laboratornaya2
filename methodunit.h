@@ -1,5 +1,7 @@
 #ifndef METHODUNIT_H
 #define METHODUNIT_H
+#include <string>
+#include <vector>
 #include <Unit.h>
 #include <ClassUnit.h>
 
