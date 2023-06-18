@@ -1,5 +1,7 @@
 #ifndef PRINTOPERATORUNIT_H
 #define PRINTOPERATORUNIT_H
+#include "Unit.h"
+#include "ClassUnit.h"
 
 class PrintOperatorUnit : public Unit
 {
