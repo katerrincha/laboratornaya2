@@ -20,4 +20,10 @@ HEADERS += \
     classunit.h \
     unit.h \
     methodunit.h \
-    printoperatorunit.h
+    printoperatorunit.h \
+    cppclassunit.h \
+    cppmethodunit.h \
+    cppprintoperatorunit.h \
+    javaclassunit.h \
+    javamethodunit.h \
+    javaprintoperatorunit.h
